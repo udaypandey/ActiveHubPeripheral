@@ -1,0 +1,31 @@
+# xcode noise
+xcuserdata
+xcuserdata/*
+*.xccheckout
+*.xcscmblueprint
+build
+build/*
+*.pbxuser
+*.mode1v3
+build
+*.o
+*.pyc
+*.perspectivev3
+.*.swo
+.*.swp
+.irb-history
+.idea
+.ruby-version
+
+# old skool
+.svn
+__MACOSX
+__MACOSX/*--
+
+# osx noise
+.DS_Store
+profile
+
+# fastlane noise
+fastlane/README.md
+fastlane/report.xml
