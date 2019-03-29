@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8407ACDA4D75BF0B332705F28050E64786A8A751",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8407ACDA4D75BF0B332705F28050E64786A8A751" : 9223372036854775807,
+    "7CCF78690782E67C70022D032E2439B21597A429" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DAF90AA6-4221-4061-A810-90834075E770",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8407ACDA4D75BF0B332705F28050E64786A8A751" : "ActiveHubPeripheral\/",
+    "7CCF78690782E67C70022D032E2439B21597A429" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ActiveHubPeripheral",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ActiveHubPeripheral.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ConnectedHomes\/Hive-IOS-WL-Camera.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7CCF78690782E67C70022D032E2439B21597A429"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:udaypandey\/ActiveHubPeripheral.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8407ACDA4D75BF0B332705F28050E64786A8A751"
+    }
+  ]
+}
